@@ -13,7 +13,7 @@ This element is **not** all that useful as a card (it can be used for that to), 
 
 ### Step 1
 
-Install `text-element` by copying `text-element.js`from this repo to `<config directory>/www/tracker-card.js` on your Home Assistant instanse.
+Install `text-element` by copying `text-element.js`from this repo to `<config directory>/www/text-element.js` on your Home Assistant instanse.
 
 **Example:**
 
@@ -76,5 +76,5 @@ views:
 
 ## Credits
 
-- [ciotlosm](https://github.com/ciotlosm)
 - [ludeeus](https://github.com/ludeeus)
+- [ciotlosm](https://github.com/ciotlosm)
